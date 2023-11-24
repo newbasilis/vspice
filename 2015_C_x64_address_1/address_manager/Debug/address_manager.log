@@ -1,0 +1,5 @@
+﻿  manager.c
+c:\users\sun\downloads\2015_c_x64_address_1\address_manager\manager.c(86): warning C4013: 'gets' undefined; assuming extern returning int
+manager.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  address_manager.vcxproj -> C:\Users\SUN\Downloads\2015_C_x64_address_1\Debug\address_manager.exe
+  address_manager.vcxproj -> C:\Users\SUN\Downloads\2015_C_x64_address_1\Debug\address_manager.pdb (Full PDB)
